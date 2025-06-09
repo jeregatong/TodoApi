@@ -1,0 +1,1722 @@
+{
+  "Version": 1,
+  "Hash": "ghJesOpbYJICvgyRTBCgl0+xGc/GitqwOn9M/UUNukI=",
+  "Source": "TodoApi",
+  "BasePath": "_content/TodoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi\\wwwroot",
+      "Source": "TodoApi",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\24zjinj865-z3qeo0pp0d.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/main-UXC5MB5S#[.{fingerprint=z3qeo0pp0d}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\main-UXC5MB5S.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l1g0pfpkys",
+      "Integrity": "OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\main-UXC5MB5S.js"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\bqqepflc2v-pjm38qobjh.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/polyfills-B6TNHZQ6#[.{fingerprint=pjm38qobjh}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\polyfills-B6TNHZQ6.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "taicl23ibj",
+      "Integrity": "W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\polyfills-B6TNHZQ6.js"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\j45rx62ko1-ulu5778pr7.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/index#[.{fingerprint=ulu5778pr7}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8ds6ij4w26",
+      "Integrity": "5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\n4lwo9ioeu-5ipweew5fc.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/styles-5INURTSO#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\styles-5INURTSO.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\styles-5INURTSO.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\u80h3lw9py-vagikyz9qx.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/favicon#[.{fingerprint=vagikyz9qx}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7hqb4lxq1m",
+      "Integrity": "NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\favicon.ico",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\index.html",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ulu5778pr7",
+      "Integrity": "Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\main-UXC5MB5S.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/main-UXC5MB5S#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z3qeo0pp0d",
+      "Integrity": "r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app\\main-UXC5MB5S.js"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\polyfills-B6TNHZQ6.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/polyfills-B6TNHZQ6#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pjm38qobjh",
+      "Integrity": "5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app\\polyfills-B6TNHZQ6.js"
+    },
+    {
+      "Identity": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\styles-5INURTSO.css",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/styles-5INURTSO#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app\\styles-5INURTSO.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app/favicon.ico",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\u80h3lw9py-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000235682300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 16:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "app/favicon.ico",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 16:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "app/favicon.ico.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\u80h3lw9py-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 16:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA="
+        }
+      ]
+    },
+    {
+      "Route": "app/favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\u80h3lw9py-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000235682300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 16:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "app/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "app/favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 16:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "app/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "app/favicon.vagikyz9qx.ico.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\u80h3lw9py-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 16:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "app/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA="
+        }
+      ]
+    },
+    {
+      "Route": "app/index.html",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\j45rx62ko1-ulu5778pr7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003194888179"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo="
+        }
+      ]
+    },
+    {
+      "Route": "app/index.html",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo="
+        }
+      ]
+    },
+    {
+      "Route": "app/index.html.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\j45rx62ko1-ulu5778pr7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk="
+        }
+      ]
+    },
+    {
+      "Route": "app/index.ulu5778pr7.html",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\j45rx62ko1-ulu5778pr7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003194888179"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulu5778pr7"
+        },
+        {
+          "Name": "label",
+          "Value": "app/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo="
+        }
+      ]
+    },
+    {
+      "Route": "app/index.ulu5778pr7.html",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulu5778pr7"
+        },
+        {
+          "Name": "label",
+          "Value": "app/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ms0lzi2zw2o2JE6U8L8K922Gw/39tsV1EVj0j/cCeEo="
+        }
+      ]
+    },
+    {
+      "Route": "app/index.ulu5778pr7.html.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\j45rx62ko1-ulu5778pr7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulu5778pr7"
+        },
+        {
+          "Name": "label",
+          "Value": "app/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5GyVavd4PEfmABzmlEuAyFFXX4rvnzEWuSrwO0bGyrk="
+        }
+      ]
+    },
+    {
+      "Route": "app/main-UXC5MB5S.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\24zjinj865-z3qeo0pp0d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013088320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo="
+        }
+      ]
+    },
+    {
+      "Route": "app/main-UXC5MB5S.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\main-UXC5MB5S.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo="
+        }
+      ]
+    },
+    {
+      "Route": "app/main-UXC5MB5S.js.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\24zjinj865-z3qeo0pp0d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag="
+        }
+      ]
+    },
+    {
+      "Route": "app/main-UXC5MB5S.z3qeo0pp0d.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\24zjinj865-z3qeo0pp0d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013088320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3qeo0pp0d"
+        },
+        {
+          "Name": "label",
+          "Value": "app/main-UXC5MB5S.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo="
+        }
+      ]
+    },
+    {
+      "Route": "app/main-UXC5MB5S.z3qeo0pp0d.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\main-UXC5MB5S.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3qeo0pp0d"
+        },
+        {
+          "Name": "label",
+          "Value": "app/main-UXC5MB5S.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2NC443OlrQ58TD7d82z9NSWwDEDNhrq0IJZjDvn3bo="
+        }
+      ]
+    },
+    {
+      "Route": "app/main-UXC5MB5S.z3qeo0pp0d.js.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\24zjinj865-z3qeo0pp0d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3qeo0pp0d"
+        },
+        {
+          "Name": "label",
+          "Value": "app/main-UXC5MB5S.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OTboKmkb2G5Lu6Jl92TNe3QTqnLgUvJXH6I+ailtuag="
+        }
+      ]
+    },
+    {
+      "Route": "app/polyfills-B6TNHZQ6.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\bqqepflc2v-pjm38qobjh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080586671"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12408"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "app/polyfills-B6TNHZQ6.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\polyfills-B6TNHZQ6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "app/polyfills-B6TNHZQ6.js.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\bqqepflc2v-pjm38qobjh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E="
+        }
+      ]
+    },
+    {
+      "Route": "app/polyfills-B6TNHZQ6.pjm38qobjh.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\bqqepflc2v-pjm38qobjh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080586671"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12408"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjm38qobjh"
+        },
+        {
+          "Name": "label",
+          "Value": "app/polyfills-B6TNHZQ6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "app/polyfills-B6TNHZQ6.pjm38qobjh.js",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\polyfills-B6TNHZQ6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjm38qobjh"
+        },
+        {
+          "Name": "label",
+          "Value": "app/polyfills-B6TNHZQ6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "app/polyfills-B6TNHZQ6.pjm38qobjh.js.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\bqqepflc2v-pjm38qobjh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjm38qobjh"
+        },
+        {
+          "Name": "label",
+          "Value": "app/polyfills-B6TNHZQ6.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+uC9sFxv6Ho++LhGu2gTibmUDlMF3NNlv5540xi37E="
+        }
+      ]
+    },
+    {
+      "Route": "app/styles-5INURTSO.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\n4lwo9ioeu-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "app/styles-5INURTSO.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "app/styles-5INURTSO.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\styles-5INURTSO.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "app/styles-5INURTSO.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "app/styles-5INURTSO.5ipweew5fc.css.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\n4lwo9ioeu-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "app/styles-5INURTSO.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "app/styles-5INURTSO.css",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\n4lwo9ioeu-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "app/styles-5INURTSO.css",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\styles-5INURTSO.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "app/styles-5INURTSO.css.gz",
+      "AssetFile": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\obj\\Debug\\net9.0\\compressed\\n4lwo9ioeu-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    }
+  ]
+}

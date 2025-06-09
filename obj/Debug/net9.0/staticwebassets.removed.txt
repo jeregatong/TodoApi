@@ -1,0 +1,5 @@
+C:\Users\Jeremiah Gatong\source\repos\TodoApi\wwwroot\app\main-UXC5MB5S.js
+C:\Users\Jeremiah Gatong\source\repos\TodoApi\wwwroot\app\polyfills-B6TNHZQ6.js
+C:\Users\Jeremiah Gatong\source\repos\TodoApi\wwwroot\app\index.html
+C:\Users\Jeremiah Gatong\source\repos\TodoApi\wwwroot\app\styles-5INURTSO.css
+C:\Users\Jeremiah Gatong\source\repos\TodoApi\wwwroot\app\favicon.ico

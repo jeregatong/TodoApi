@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\favicon.ico",
+      "PackagePath": "staticwebassets\\app\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\index.html",
+      "PackagePath": "staticwebassets\\app\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\main-UXC5MB5S.js",
+      "PackagePath": "staticwebassets\\app\\main-UXC5MB5S.js"
+    },
+    {
+      "Id": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\polyfills-B6TNHZQ6.js",
+      "PackagePath": "staticwebassets\\app\\polyfills-B6TNHZQ6.js"
+    },
+    {
+      "Id": "C:\\Users\\Jeremiah Gatong\\source\\repos\\TodoApi\\wwwroot\\app\\styles-5INURTSO.css",
+      "PackagePath": "staticwebassets\\app\\styles-5INURTSO.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TodoApi.props",
+      "PackagePath": "build\\TodoApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TodoApi.props",
+      "PackagePath": "buildMultiTargeting\\TodoApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TodoApi.props",
+      "PackagePath": "buildTransitive\\TodoApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
